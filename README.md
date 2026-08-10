@@ -126,16 +126,6 @@ Provides deeper analysis of:
 
 ---
 
-# 🚀 How to Run
-
-## 1. Clone repository
-
-```bash
-git clone YOUR_REPOSITORY_URL
-cd YOUR_REPOSITORY_NAME
-
-
-
 
 
 
