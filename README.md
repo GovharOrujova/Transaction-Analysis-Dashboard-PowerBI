@@ -110,7 +110,8 @@ The report includes:
 Provides a general overview of transaction performance with key business metrics, geographical analysis, category performance, and sales insights.
 
 ### 2. Customer & Product Analysis
-![Customer & Product Analysis](Transaction-page2.png)
+
+![Customer & Product Analysis](Transacton-page2.png)
 
 Provides deeper analysis of:
 
